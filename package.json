@@ -1,0 +1,21 @@
+{
+  "name": "boreal-cpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "boreal-cpack": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@octokit/rest": "^21.0.0",
+    "inquirer": "^10.0.1",
+    "ora": "^8.0.1"
+  }
+}
