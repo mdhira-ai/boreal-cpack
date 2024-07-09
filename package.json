@@ -1,6 +1,6 @@
 {
   "name": "boreal-cpack",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,6 +9,8 @@
   "bin": {
     "boreal-cpack": "./index.js"
   },
+  "repository": "https://github.com/mdhira-ai/boreal-cpack",
+  "homepage": "https://github.com/mdhira-ai/boreal-cpack",
   "keywords": [
     "boreal",
     "boreal-cpack"
