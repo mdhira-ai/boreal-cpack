@@ -9,10 +9,13 @@
   "bin": {
     "boreal-cpack": "./index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "boreal",
+    "boreal-cpack"
+  ],
+  "author": "MD Habibor Rahman Hira",
+  "license": "MIT",
+  "description": "A CLI tool for creating components in React/Nextjs",
   "dependencies": {
     "@octokit/rest": "^21.0.0",
     "inquirer": "^10.0.1",
