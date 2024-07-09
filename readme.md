@@ -1,4 +1,3 @@
-// README.md
 # Component Fetcher
 
 This is a Node.js script that allows you to fetch and add React components from a GitHub repository to your local project. It uses the GitHub API to retrieve the components and the `inquirer` library to provide a command-line interface.
